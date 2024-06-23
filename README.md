@@ -5,3 +5,4 @@ This will probably never be completed, since it's mainly meant to help aid my ow
 
 Quartz will be shorted to just 'Q' for this documentation.
 
+The documentation is in the Wiki tab.
